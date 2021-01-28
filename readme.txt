@@ -10,3 +10,4 @@ yuqi modify + xiaomi modify
 <<<<<<< HEAD
 yuqi modify againgit status
 xiaomi modify againcat readme.txt 
+yuqi modify againgit status
