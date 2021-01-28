@@ -7,3 +7,4 @@ new liine1----
 master line
 dev line
 yuqi modify + xiaomi modify
+xiaomi modify againcat readme.txt 
